@@ -13,7 +13,7 @@ export default function Header() {
             <img
               src="https://i.ibb.co/C3v7DXT2/Gemini-Generated-Image-j9nn0vj9nn0vj9nn-removebg-preview.png"
               alt="Logo"
-              className="h-10 w-auto object-contain"
+              className="h-20 w-auto object-contain"
             />
           </div>
 
